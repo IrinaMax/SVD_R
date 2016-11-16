@@ -17,4 +17,5 @@
      s2<-u%*%d%*%t(v)
      s2
      plot(s2)
-SVD_R/SVD_plot_Expedia_.png
+![svd_plot_expedia_](https://cloud.githubusercontent.com/assets/16123495/20338498/4f47b11a-ab8c-11e6-8228-856dd47f753b.png)
+
